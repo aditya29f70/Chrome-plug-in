@@ -31,3 +31,6 @@ All directly from the browser using a Retrieval-Augmented Generation (RAG) pipel
 • Integrated LangChain with a Chrome Extension frontend
 • Built a clean separation between browser-based UI and Python backend
 • Used open-source LLMs and embeddings instead of paid APIs
+
+<img width="1867" height="863" alt="basic_rag_implementation" src="https://github.com/user-attachments/assets/2c098bdb-ed76-4a22-901f-38ecc3903c3c" />
+
