@@ -1,0 +1,10 @@
+flask
+beautifulsoup4
+youtube-transcript-api
+
+langchain==0.2.14
+langchain-core==0.2.34
+langchain-community==0.2.12
+langchain-huggingface==0.0.3
+python-dotenv
+faiss-cpu
